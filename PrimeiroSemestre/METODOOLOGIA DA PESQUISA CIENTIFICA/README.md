@@ -1,11 +1,13 @@
-CÁLCULO I
-
-FUNDAMENTOS DA FÍSICA PARA COMPUTAÇÃO
-
-INTRODUÇÃO À CIÊNCIA DA COMPUTAÇÃO
-
-LÓGICA DE PROGRAMAÇÃO E ALGORITMOS
-
-METODOOLOGIA DA PESQUISA CIENTIFICA
-
-RELAÇÕES SOCIAIS ÉTNICAS E MEIO AMBIENTE
+Carga Horária: 40
+ 
+Ementa:
+    Fundamentos da Metodologia Científica. A Comunicação Científica. Métodos e técnicas de pesquisa. A comunicação entre orientados/orientadores. Normas para Elaboração de Trabalhos Acadêmicos. O pré-projeto de pesquisa. O Projeto de Pesquisa. O Experimento. A organização de texto científico (Normas ABNT e IEEE).
+ 
+Objetivos Gerais:
+    Construir o conhecimento científico por meio da elaboração de um artigo científico.
+ 
+Objetivos Específicos:
+    Proporcionar vivências para a elaboração de um artigo científico.
+ 
+Metodologia:
+    Aulas em data show, elaboração de trabalhos e leitura de artigos científicos
