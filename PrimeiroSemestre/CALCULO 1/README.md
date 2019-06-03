@@ -1,6 +1,6 @@
 Carga Horária: 60
  
-** *Ementa:* **
+***Ementa:***
     Revisão dos conteúdos básicos da Matématica, como conjuntos numéricos, produtos notáveis, fatoração, equações, funções, limites, derivadas.
  
 Objetivos Gerais:
